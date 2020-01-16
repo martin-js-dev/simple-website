@@ -1,0 +1,78 @@
+
+body {
+    text-align: center;
+    font-family: Helvetica;
+}
+
+div {
+    background-color: rgb(208, 208, 223);
+}
+.java {
+    border-radius: 50%;
+    width: 128px;
+    height: 128px;
+}
+.css {
+    border-radius: 50%;
+    width: 128px;
+    height: 128px;
+}
+.python {
+    border-radius: 50%;
+    width: 128px;
+    height: 128px;
+}
+.html {
+    border-radius: 50%;
+    width: 128px;
+    height: 128px;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: normal;
+    color:rgb(73, 84, 146)
+}
+h3 {
+    color:rgb(73, 84, 146)
+}
+h2 {
+    color:rgb(73, 84, 146)
+}
+h4{
+    color:rgb(179, 91, 91);
+    font-size: 20px;
+}
+
+.mal {
+    width: 200px;
+    height: 100px;
+}
+.planina {
+    width: 500px;
+    height: 300px;
+}
+
+ .web {
+    width: 500px;
+    height: 300px;  
+ }
+
+ table {
+     text-align: center;
+     color: rgb(199, 115, 129);
+     width: 350px;
+     height: 160px;
+
+ }
+ .gym {
+    float: left;
+ }
+ 
+
+
+ .basketball {
+     float: right;
+     margin:-200px
+     
+ }
